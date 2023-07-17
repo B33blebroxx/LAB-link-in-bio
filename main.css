@@ -1,3 +1,7 @@
 body {
   background-color: cornflowerblue;
 }
+
+img {
+  border-radius: 50%;
+}
