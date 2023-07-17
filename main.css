@@ -2,6 +2,16 @@ body {
   background-color: cornflowerblue;
 }
 
-img {
-  border-radius: 50%;
+#selfie {
+ border-radius: 50%;
+ max-width: 300px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+a:link{
+  color: white;
+  text-decoration: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
